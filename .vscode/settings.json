@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/25c79f39-3b24-4b3c-86ab-01e8879a3fae/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/task-manager-app-api",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
