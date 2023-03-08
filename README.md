@@ -3,6 +3,8 @@
 This is the codebase for task manager app written in NodeJS, ExpressJS. The database used is MongoDB. The [backend](https://task-manager-app-api.azurewebsites.net/) using the WebApp service. The database is as hosted on Azure using CosmosDB.
 This application uses ```mongoose``` package to connect with the MongoDB.
 
+To implement this application, followed tutorial by [Devstackr - Build a Task Manager Application](https://youtu.be/V-CeWkz1MNQ)
+
 ## Features
 
 1. Authentication
